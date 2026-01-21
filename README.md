@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
