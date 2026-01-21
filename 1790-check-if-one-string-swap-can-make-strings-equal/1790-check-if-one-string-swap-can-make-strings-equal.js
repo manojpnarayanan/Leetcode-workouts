@@ -6,7 +6,6 @@
 var areAlmostEqual = function(s1, s2) {
    if(s1.length!== s2.length) return false;
    if(s1===s2) return true
-   let count=0;
    let first=-1 , second=-1;
    for(let i=0;i<s1.length;i++){
     let j=i
