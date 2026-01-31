@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0496-next-greater-element-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0844-backspace-string-compare) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
