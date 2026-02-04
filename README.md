@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
