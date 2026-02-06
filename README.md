@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
