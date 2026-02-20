@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
