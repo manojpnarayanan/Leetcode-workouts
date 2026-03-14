@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0263-ugly-number) |
+| [0441-arranging-coins](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0441-arranging-coins) |
 | [2119-a-number-after-a-double-reversal](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2119-a-number-after-a-double-reversal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Greedy
 |  |
