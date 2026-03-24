@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0605-can-place-flowers) |
+## Sorting
+|  |
+| ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
