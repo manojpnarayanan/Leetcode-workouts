@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
