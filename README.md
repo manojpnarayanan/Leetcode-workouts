@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0844-backspace-string-compare) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
