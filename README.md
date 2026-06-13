@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -88,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
