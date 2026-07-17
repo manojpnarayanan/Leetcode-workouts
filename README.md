@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2418-sort-the-people](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2418-sort-the-people) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2418-sort-the-people](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2418-sort-the-people) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2418-sort-the-people](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2418-sort-the-people) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2418-sort-the-people](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
