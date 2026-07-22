@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0142-linked-list-cycle-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0345-reverse-vowels-of-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0237-delete-node-in-a-linked-list) |
