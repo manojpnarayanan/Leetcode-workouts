@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2418-sort-the-people](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2540-minimum-common-value) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2418-sort-the-people](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2540-minimum-common-value) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2540-minimum-common-value](https://github.com/manojpnarayanan/Leetcode-workouts/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
